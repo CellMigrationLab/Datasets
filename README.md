@@ -8,7 +8,6 @@ Welcome to the  Cell Migration Lab's datasets repository. Here, you will find a 
 - [Image Data](#image-data)
 
 
-
 ## Deep Learning training datasets and models
 Description or context about your image datasets.
 
