@@ -22,7 +22,6 @@ This section overviews our curated deep-learning training datasets and correspon
 <!-- Add more rows as needed -->
 
 
-
 ## Proteomic Data
 
 Our lab has generated and published a series of proteomic datasets focusing on protein interactions and cellular fractionation. Below is a summary of these datasets, providing insights into various proteins and their binding partners in different cellular contexts.
@@ -71,9 +70,10 @@ This section provides an overview of our image datasets, encompassing various st
 | ------------ | ----------- | ---- | --------- | 
 | FiloMap Test Dataset | Dataset for testing and validation in FiloMap, a tool that can be used to map the localization of proteins within filopodia from microscopy images. | [View Dataset on Zenodo](https://doi.org/10.5281/zenodo.5912949) | [Jacquemet et al., 2019](https://www.cell.com/current-biology/fulltext/S0960-9822(18)31552-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982218315525%3Fshowall%3Dtrue) |
 
-### TLNRD1
+### TLNRD1 is a CCM complex component and regulates endothelial barrier integrity
 | Dataset Name | Description | Link | Reference | 
 | ------------ | ----------- | ---- | --------- | 
+| TLNRD1 figures | Raw microscopy images used to make the figures displayed in the article "TLNRD1 is a CCM complex component and regulates endothelial barrier integrity." | [View Dataset on Zenodo](https://zenodo.org/records/8377287) | [Ball et al., 2023](https://www.biorxiv.org/content/10.1101/2023.09.29.559344v1)  |
 
 ### TrackMate v7
 | Dataset Name | Description | Link | Reference | 
