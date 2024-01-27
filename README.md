@@ -69,7 +69,7 @@ This section provides an overview of our image datasets, encompassing various st
 ### [FiloMap](https://github.com/guijacquemet/FiloMAP)
 | Dataset Name | Description | Link | Reference | 
 | ------------ | ----------- | ---- | --------- | 
-| FiloMap Test Dataset | Dataset for testing and validation in FiloMap, a tool that can be used to map the localization of proteins within filopodia from microscopy images. | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5912949.svg)](https://doi.org/10.5281/zenodo.5912949) | [DOI: 10.5281/zenodo.5912949](https://doi.org/10.5281/zenodo.5912949) | [Jacquemet et al., 2019](https://www.cell.com/current-biology/fulltext/S0960-9822(18)31552-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982218315525%3Fshowall%3Dtrue) |
+| FiloMap Test Dataset | Dataset for testing and validation in FiloMap, a tool that can be used to map the localization of proteins within filopodia from microscopy images. | [View Dataset on Zenodo](https://doi.org/10.5281/zenodo.5912949) | [Jacquemet et al., 2019](https://www.cell.com/current-biology/fulltext/S0960-9822(18)31552-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982218315525%3Fshowall%3Dtrue) |
 
 ### TLNRD1
 | Dataset Name | Description | Link | Reference | 
