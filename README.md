@@ -37,7 +37,10 @@ This section provides an overview of our image datasets, encompassing various st
 
 | Dataset Name | Description | Link | Reference | Associated Tool |
 | ------------ | ----------- | ---- | --------- | --------------- |
-| Dataset 1 | Brief description of Dataset 1 | [View Dataset](URL) | [Citation for Dataset 1](Citation URL) | [Tool Name](Tool URL) |
+| CellTracksColab - breast cancer cell dataset | Dataset used in the manuscript "CellTracksColab—A platform for compiling, analyzing, and exploring tracking data"  | [View Dataset](https://zenodo.org/records/10539020) | [Jacquemet et al., 2024](https://www.biorxiv.org/content/10.1101/2023.10.20.563252v3) | [CellTracksColab](https://github.com/guijacquemet/CellTracksColab/tree/main) |
+| CellTracksColab - Filopodia dataset | Dataset used in the manuscript "CellTracksColab—A platform for compiling, analyzing, and exploring tracking data"  | [View Dataset](https://zenodo.org/records/10539196) | [Jacquemet et al., 2024](https://www.biorxiv.org/content/10.1101/2023.10.20.563252v3) | [CellTracksColab](https://github.com/guijacquemet/CellTracksColab/tree/main) |
+| CellTracksColab - T cell dataset (full) | Dataset used in the manuscript "CellTracksColab—A platform for compiling, analyzing, and exploring tracking data"  | [View Dataset](https://zenodo.org/records/10539720) | [Jacquemet et al., 2024](https://www.biorxiv.org/content/10.1101/2023.10.20.563252v3) | [CellTracksColab](https://github.com/guijacquemet/CellTracksColab/tree/main) |
+| CellTracksColab - T cell dataset (full) | Dataset used in the manuscript "CellTracksColab—A platform for compiling, analyzing, and exploring tracking data"  | [View Dataset](https://zenodo.org/records/10539720) | [Jacquemet et al., 2024](https://www.biorxiv.org/content/10.1101/2023.10.20.563252v3) | [CellTracksColab](https://github.com/guijacquemet/CellTracksColab/tree/main) |
 | Dataset 2 | Brief description of Dataset 2 | [View Dataset](URL) | [Citation for Dataset 2](Citation URL) | [Tool Name](Tool URL) |
 | Dataset 2 | Brief description of Dataset 2 | [View Dataset](URL) | [Citation for Dataset 2](Citation URL) | [Tool Name](Tool URL) |
 <!-- Add more rows as needed -->
