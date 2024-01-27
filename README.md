@@ -40,7 +40,8 @@ Our lab has been actively generating and publishing sequencing datasets.
 
 | Dataset Name | Sequencing Type | Description | View Dataset | Reference |
 | ------------ | --------------- | ----------- | ------------ | --------- |
-| Dataset Name 1 | Type (e.g., RNA-Seq, Whole Genome) | Brief description of Dataset 1 | [View Dataset](URL) | [Citation for Dataset 1](Citation URL) |
+| MYO10-Filopodia Breast Tumor Xenograft Expression Dataset | RNA-Seq | mRNA sequencing data from subcutaneous breast tumor xenografts of MCF10DCIS.com cell lines expressing non-targeting control shRNA (4 tumors) or Myosin-X targeting shRNA (4 tumors).
+ | [View Dataset](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE166898) | [Peuhu et al., 2022](https://www.sciencedirect.com/science/article/pii/S1534580722007134#sec4) |
 
 <!-- Add more rows as needed -->
 
