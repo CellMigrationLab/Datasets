@@ -8,7 +8,7 @@ For any inquiries or further information about these datasets, please get in tou
 - [Deep Learning training datasets and models](#Deep-Learning-training-datasets-and-models)
 - [Proteomic Data](#Proteomic-Data)
 - [Sequencing Data](#Sequencing-Data)
-- [Image Data](#Image-Data)
+- [Image Data](#Image-Datasets)
 
 
 ## Deep Learning Training Datasets and Models
