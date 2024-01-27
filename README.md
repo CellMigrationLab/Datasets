@@ -32,11 +32,15 @@ For any inquiries or further information about these datasets, please get in tou
 <!-- Add more rows as needed -->
 
 ## Image Data
-Description or context about your image datasets.
 
-| Dataset Name | Description | Link | Reference |
-| ------------ | ----------- | ---- | --------- |
-| Dataset 1 | Brief description | [Link](URL) | Citation |
-| Dataset 2 | Brief description | [Link](URL) | Citation |
+This section provides an overview of our image datasets, encompassing various studies. These datasets are invaluable for research and development in image analysis, machine learning, and other related areas.
+
+| Dataset Name | Description | Link | Reference | Associated Tool |
+| ------------ | ----------- | ---- | --------- | --------------- |
+| Dataset 1 | Brief description of Dataset 1 | [View Dataset](URL) | [Citation for Dataset 1](Citation URL) | [Tool Name](Tool URL) |
+| Dataset 2 | Brief description of Dataset 2 | [View Dataset](URL) | [Citation for Dataset 2](Citation URL) | [Tool Name](Tool URL) |
+| Dataset 2 | Brief description of Dataset 2 | [View Dataset](URL) | [Citation for Dataset 2](Citation URL) | [Tool Name](Tool URL) |
 <!-- Add more rows as needed -->
+
+Please get in touch with us if you have any questions or need more information about these datasets or the associated tools.
 
