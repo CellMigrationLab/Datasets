@@ -46,9 +46,10 @@ Our lab has been actively generating and publishing sequencing datasets.
 <!-- Add more rows as needed -->
 
 
-## Image Data
+## Image Datasets
 
 This section provides an overview of our image datasets, encompassing various studies. These datasets are invaluable for research and development in image analysis, machine learning, and other related areas.
+
 
 ### [CellTracksColab](https://github.com/guijacquemet/CellTracksColab/tree/main)
 
@@ -58,27 +59,51 @@ This section provides an overview of our image datasets, encompassing various st
 | CellTracksColab - Filopodia dataset | Dataset used in the manuscript "CellTracksColab—A platform for compiling, analyzing, and exploring tracking data" | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10539196.svg)](https://zenodo.org/record/10539196) | [Jacquemet et al., 2024](https://www.biorxiv.org/content/10.1101/2023.10.20.563252v3) | 
 | CellTracksColab - T cell dataset (full) | Dataset used in the manuscript "CellTracksColab—A platform for compiling, analyzing, and exploring tracking data" | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10539720.svg)](https://zenodo.org/record/10539720) | [Jacquemet et al., 2024](https://www.biorxiv.org/content/10.1101/2023.10.20.563252v3) | 
 
+### [ZeroCostDL4Mic]()
+| Dataset Name | Description | Link | Reference | 
+| ------------ | ----------- | ---- | --------- | 
+
+
 ### [FiloMap](https://github.com/guijacquemet/FiloMAP)
 | Dataset Name | Description | Link | Reference | 
 | ------------ | ----------- | ---- | --------- | 
 | FiloMap Test Dataset | Dataset for testing and validation in FiloMap, a tool that can be used to map the localization of proteins within filopodia from microscopy images. | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5912949.svg)](https://doi.org/10.5281/zenodo.5912949) | [DOI: 10.5281/zenodo.5912949](https://doi.org/10.5281/zenodo.5912949) | [DOI: 10.5281/zenodo.5912949](https://doi.org/10.5281/zenodo.5912949) |
-| ... | ... | ... | ... | ... |
+
+### TLNRD1
+| Dataset Name | Description | Link | Reference | 
+| ------------ | ----------- | ---- | --------- | 
+
+### TrackMate v7
+| Dataset Name | Description | Link | Reference | 
+| ------------ | ----------- | ---- | --------- |
+
+### Combining StarDist and TrackMate
+| Dataset Name | Description | Link | Reference | 
+| ------------ | ----------- | ---- | --------- |
+
+### NaNoPyx
+| Dataset Name | Description | Link | Reference | 
+| ------------ | ----------- | ---- | --------- |
 
 
-Combining StarDist and TrackMate
-
-TrackMate
-
-NaNoPyx
-
-TLNRD1 paper
-
-FiloQuant
-
-FiloMap test dataset, https://doi.org/10.5281/zenodo.5912949
+### eSRRF
+| Dataset Name | Description | Link | Reference | 
+| ------------ | ----------- | ---- | --------- | 
 
 
 
+
+
+
+### FiloQuant reveals increased filopodia density during breast cancer progression
+| Dataset Name | Description | Link | Reference | 
+| ------------ | ----------- | ---- | --------- | 
+| S-JCBD-201704045 | Raw data from figures | [View Dataset](https://www.ebi.ac.uk/biostudies/jcb/studies/S-JCBD-201704045) | [Jacquemet et al., 2017](https://rupress.org/jcb/article/216/10/3387/38936/FiloQuant-reveals-increased-filopodia-density) |
+
+### RCP-driven α5β1 recycling suppresses Rac and promotes RhoA activity via the RacGAP1–IQGAP1 complex
+| Dataset Name | Description | Link | Reference | 
+| ------------ | ----------- | ---- | --------- | 
+| S-JCBD-201302041 | Raw data from figures | [View Dataset](https://www.ebi.ac.uk/biostudies/jcb/studies/S-JCBD-201302041) | [Jacquemet et al., 2013](https://rupress.org/jcb/article/216/10/3387/38936/FiloQuant-reveals-increased-filopodia-density) |
 
 <!-- Add more rows as needed -->
 
