@@ -51,7 +51,7 @@ Our lab has been actively generating and publishing sequencing datasets.
 This section provides an overview of our image datasets, encompassing various studies. These datasets are invaluable for research and development in image analysis, machine learning, and other related areas.
 
 
-### [CellTracksColab](https://github.com/guijacquemet/CellTracksColab/tree/main)
+### [CellTracksColab](https://github.com/guijacquemet/CellTracksColab/tree/main) —A platform for compiling, analyzing, and exploring tracking data
 
 | Dataset Name | Description | Link | Reference | 
 | ------------ | ----------- | ---- | --------- | 
