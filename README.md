@@ -48,7 +48,7 @@ Our lab has been actively generating and publishing sequencing datasets.
 
 ## Image Data
 
-This section provides an overview of our image datasets, encompassing various studies. These datasets are invaluable for research and development in image analysis, machine learning, and other related areas.
+This section overviews our publicly available image datasets, encompassing various studies. 
 
 
 ### [CellTracksColab](https://github.com/guijacquemet/CellTracksColab/tree/main) —A platform for compiling, analyzing, and exploring tracking data
@@ -65,10 +65,10 @@ This section provides an overview of our image datasets, encompassing various st
 | ------------ | ----------- | ---- | --------- | 
 
 
-### [FiloMap](https://github.com/guijacquemet/FiloMAP)
+### Mapping the Localization of Proteins Within Filopodia Using [FiloMap](https://github.com/guijacquemet/FiloMAP)
 | Dataset Name | Description | Link | Reference | 
 | ------------ | ----------- | ---- | --------- | 
-| FiloMap Test Dataset | Dataset for testing and validation in FiloMap, a tool that can be used to map the localization of proteins within filopodia from microscopy images. | [View Dataset on Zenodo](https://doi.org/10.5281/zenodo.5912949) | [Jacquemet et al., 2019](https://www.cell.com/current-biology/fulltext/S0960-9822(18)31552-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982218315525%3Fshowall%3Dtrue) |
+| FiloMap Test Dataset | Dataset for testing and validation in FiloMap, a tool that can be used to map the localization of proteins within filopodia from microscopy images. | [View Dataset on Zenodo](https://doi.org/10.5281/zenodo.5912949) | [Jacquemet et al., 2019](https://www.cell.com/current-biology/fulltext/S0960-9822(18)31552-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982218315525%3Fshowall%3Dtrue) and [Jacquemet et al., 2023](https://link.springer.com/protocol/10.1007/978-1-0716-2887-4_4) |
 
 ### TLNRD1 is a CCM complex component and regulates endothelial barrier integrity
 | Dataset Name | Description | Link | Reference | 
