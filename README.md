@@ -33,6 +33,7 @@ Our lab has generated and published a series of proteomic datasets focusing on p
 | Talin1-GFP Pulldown in U2OS Cells | Study of human Talin1-GFP and GFP pulldown from U2OS cells plated on fibronectin, using mass spectrometry. | [View Dataset](https://www.ebi.ac.uk/pride/archive/projects/PXD024634) | [Gough et al., 2021](https://www.jbc.org/article/S0021-9258(21)00635-9/fulltext) |
 | Sharpin-GFP Pulldown in HEK293T Cells | Analysis of human Sharpin-GFP and GFP pulldown from HEK293T cells, identifying binding partners through mass spectrometry. | [View Dataset](https://www.ebi.ac.uk/pride/archive/projects/PXD004734) | [Khan et al., 2017](https://journals.biologists.com/jcs/article/130/18/3094/56377/The-Sharpin-interactome-reveals-a-role-for-Sharpin) |
 | Plasma Membrane, Endosomal, and Cytoplasmic Fractions in Mouse Embryonic Fibroblast | Cellular fractionation experiments to identify novel endosomal proteins in mouse embryonic fibroblast. | [View Dataset](https://www.ebi.ac.uk/pride/archive/projects/PXD001870) | [Alanko et al., 2015](https://www.nature.com/articles/ncb3250) |
+| Proteomic analysis of filamin-A, IQGAP1, Rac1 and RCC2 binding partners | Analysis of human filamin-A-GFP, IQGAP1-GFP, Rac1 and RCC2-GFP and GFP pulldown from HEK293T cells, identifying binding partners through mass spectrometry. | [View Dataset](https://www.ebi.ac.uk/pride/archive/projects/PRD000726) | [Jacquemet et al., 2013](https://journals.biologists.com/jcs/article/126/18/4121/53831/Rac1-is-deactivated-at-integrin-activation-sites) |
 
 ## Sequencing Data
 
