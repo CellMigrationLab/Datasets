@@ -8,7 +8,7 @@ For any inquiries or further information about these datasets, please get in tou
 - [Deep Learning training datasets and models](#Deep-Learning-training-datasets-and-models)
 - [Proteomic Data](#Proteomic-Data)
 - [Sequencing Data](#Sequencing-Data)
-- [Image Data](#Image-Datasets)
+- [Image Data](#Image-Data)
 
 
 ## Deep Learning Training Datasets and Models
@@ -46,7 +46,7 @@ Our lab has been actively generating and publishing sequencing datasets.
 <!-- Add more rows as needed -->
 
 
-## Image Datasets
+## Image Data
 
 This section provides an overview of our image datasets, encompassing various studies. These datasets are invaluable for research and development in image analysis, machine learning, and other related areas.
 
