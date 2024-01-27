@@ -13,9 +13,10 @@ Description or context about your image datasets.
 
 | Dataset Name | Description | Link | Reference |
 | ------------ | ----------- | ---- | --------- |
+| TLNRD1-GFP pulldown in HEK293T cells | In this study, we pull-down human TLNRD1-GFP and GFP from HEK cells. Binding partners were then analyzed using mass spectrometry. | [Link](https://www.ebi.ac.uk/pride/archive/projects/PXD045258) | [Ball et al., 2023](https://www.biorxiv.org/content/10.1101/2023.09.29.559344v1)  |
 | Talin1-GFP pulldown in U2OS cells | In this study, we pull-down human Talin1-GFP and GFP from U2OS cells plated on fibronectin. Binding partners were then analysed using mass-spectrometry | [Link](https://www.ebi.ac.uk/pride/archive/projects/PXD024634) | [Gough et al., 2021](https://www.jbc.org/article/S0021-9258(21)00635-9/fulltext)  |
 | Sharpin-GFP pulldown in HEK293T cells | In this study, we pull-down human Sharpin-GFP and GFP from HEK293T cells. Binding partners were then analysed using mass-spectrometry | [Link](https://www.ebi.ac.uk/pride/archive/projects/PXD004734) | [Khan et al., 2017](https://journals.biologists.com/jcs/article/130/18/3094/56377/The-Sharpin-interactome-reveals-a-role-for-Sharpin)  |
-| Analysis of Plasma Membrane, Endosomal and Cytoplasmic fractions of mouse embryonic fibroblast | identify novel endosomal proteins and therefore cellular fractionation experiments were performed | [Link](https://www.ebi.ac.uk/pride/archive/projects/PXD001870) | [Alanko et al., 2015](https://www.nature.com/articles/ncb3250)  |
+| Analysis of Plasma Membrane, Endosomal and Cytoplasmic fractions of mouse embryonic fibroblast | identify novel endosomal proteins and therefore, cellular fractionation experiments were performed | [Link](https://www.ebi.ac.uk/pride/archive/projects/PXD001870) | [Alanko et al., 2015](https://www.nature.com/articles/ncb3250)  |
 <!-- Add more rows as needed -->
 
 ## Proteomic Data
