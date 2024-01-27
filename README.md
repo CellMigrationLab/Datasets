@@ -13,7 +13,7 @@ Description or context about your image datasets.
 
 | Dataset Name | Description | Link | Reference |
 | ------------ | ----------- | ---- | --------- |
-| Dataset 1 | Brief description | [Link](URL) | Citation |
+| Talin1-GFP pulldown in U2OS cells | In this study, we pull-down human Talin1-GFP and GFP from U2OS cells plated on fibronectin. Binding partners were then analysed using mass-spectrometry | [Link](https://www.ebi.ac.uk/pride/archive/projects/PXD024634) | [Gough et al., 2021](https://www.jbc.org/article/S0021-9258(21)00635-9/fulltext)  |
 | Dataset 2 | Brief description | [Link](URL) | Citation |
 <!-- Add more rows as needed -->
 
