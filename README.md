@@ -50,11 +50,35 @@ Our lab has been actively generating and publishing sequencing datasets.
 
 This section provides an overview of our image datasets, encompassing various studies. These datasets are invaluable for research and development in image analysis, machine learning, and other related areas.
 
-| Dataset Name | Description | Link | Reference | Associated Tool |
-| ------------ | ----------- | ---- | --------- | --------------- |
-| CellTracksColab - breast cancer cell dataset | Dataset used in the manuscript "CellTracksColab—A platform for compiling, analyzing, and exploring tracking data" | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10539020.svg)](https://zenodo.org/record/10539020) | [Jacquemet et al., 2024](https://www.biorxiv.org/content/10.1101/2023.10.20.563252v3) | [CellTracksColab](https://github.com/guijacquemet/CellTracksColab/tree/main) |
-| CellTracksColab - Filopodia dataset | Dataset used in the manuscript "CellTracksColab—A platform for compiling, analyzing, and exploring tracking data" | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10539196.svg)](https://zenodo.org/record/10539196) | [Jacquemet et al., 2024](https://www.biorxiv.org/content/10.1101/2023.10.20.563252v3) | [CellTracksColab](https://github.com/guijacquemet/CellTracksColab/tree/main) |
-| CellTracksColab - T cell dataset (full) | Dataset used in the manuscript "CellTracksColab—A platform for compiling, analyzing, and exploring tracking data" | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10539720.svg)](https://zenodo.org/record/10539720) | [Jacquemet et al., 2024](https://www.biorxiv.org/content/10.1101/2023.10.20.563252v3) | [CellTracksColab](https://github.com/guijacquemet/CellTracksColab/tree/main) |
-| Dataset 2 | Brief description of Dataset 2 | [![DOI](Zenodo DOI Badge)](Zenodo Dataset URL) | [Citation for Dataset 2](Citation URL) | [Tool Name](Tool URL) |
+### [CellTracksColab](https://github.com/guijacquemet/CellTracksColab/tree/main)
+
+| Dataset Name | Description | Link | Reference | 
+| ------------ | ----------- | ---- | --------- | 
+| CellTracksColab - breast cancer cell dataset | Dataset used in the manuscript "CellTracksColab—A platform for compiling, analyzing, and exploring tracking data" | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10539020.svg)](https://zenodo.org/record/10539020) | [Jacquemet et al., 2024](https://www.biorxiv.org/content/10.1101/2023.10.20.563252v3) | 
+| CellTracksColab - Filopodia dataset | Dataset used in the manuscript "CellTracksColab—A platform for compiling, analyzing, and exploring tracking data" | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10539196.svg)](https://zenodo.org/record/10539196) | [Jacquemet et al., 2024](https://www.biorxiv.org/content/10.1101/2023.10.20.563252v3) | 
+| CellTracksColab - T cell dataset (full) | Dataset used in the manuscript "CellTracksColab—A platform for compiling, analyzing, and exploring tracking data" | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10539720.svg)](https://zenodo.org/record/10539720) | [Jacquemet et al., 2024](https://www.biorxiv.org/content/10.1101/2023.10.20.563252v3) | 
+
+### [FiloMap](https://github.com/guijacquemet/FiloMAP)
+| Dataset Name | Description | Link | Reference | 
+| ------------ | ----------- | ---- | --------- | 
+| FiloMap Test Dataset | Dataset for testing and validation in FiloMap, a tool that can be used to map the localization of proteins within filopodia from microscopy images. | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5912949.svg)](https://doi.org/10.5281/zenodo.5912949) | [DOI: 10.5281/zenodo.5912949](https://doi.org/10.5281/zenodo.5912949) | [DOI: 10.5281/zenodo.5912949](https://doi.org/10.5281/zenodo.5912949) |
+| ... | ... | ... | ... | ... |
+
+
+Combining StarDist and TrackMate
+
+TrackMate
+
+NaNoPyx
+
+TLNRD1 paper
+
+FiloQuant
+
+FiloMap test dataset, https://doi.org/10.5281/zenodo.5912949
+
+
+
+
 <!-- Add more rows as needed -->
 
