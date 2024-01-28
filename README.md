@@ -9,21 +9,10 @@ For any inquiries or further information about these datasets, please get in tou
 We're currently developing this section to bring you comprehensive and valuable content.
 
 ## Table of Contents
-- [Deep Learning training datasets and models](#Deep-Learning-training-datasets-and-models)
+- [Deep Learning training datasets and models](https://github.com/CellMigrationLab/ModelZoo)
 - [Proteomic Data](#Proteomic-Data)
 - [Sequencing Data](#Sequencing-Data)
 - [Image Data](#Image-Data)
-
-## Deep Learning Training Datasets and Models (🚧 Work in Progress 🚧)
-
-This section overviews our curated deep-learning training datasets and corresponding models (when available). 
-
-| Dataset Name | Imaging Modality | Task | Purpose | Training Dataset Link | Model available |
-|--------------|------------------|------|---------|-----------------------|------------|
-| Dataset 1 | Modality of Dataset 1 | Task of Dataset 1 (e.g., Segmentation) | Purpose of Dataset 1 | [View Dataset](Training Dataset URL) | [View Model](Model URL) |
-| Dataset 2 | Modality of Dataset 2 | Task of Dataset 2 | Purpose of Dataset 2 | [View Dataset](Training Dataset URL) | [View Model](Model URL) |
-<!-- Add more rows as needed -->
-
 
 ## Proteomic Data
 
