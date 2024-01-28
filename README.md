@@ -67,6 +67,12 @@ This section overviews our publicly available image datasets, encompassing vario
 | ------------ | ----------- | ---- | --------- | 
 | TLNRD1 figures | Raw microscopy images used to make the figures displayed in the article "TLNRD1 is a CCM complex component and regulates endothelial barrier integrity." | [View Dataset on Zenodo](https://zenodo.org/records/8377287) | [Ball et al., 2023](https://www.biorxiv.org/content/10.1101/2023.09.29.559344v1)  |
 
+### High-fidelity 3D live-cell nanoscopy through data-driven enhanced super-resolution radial fluctuation
+
+| Dataset Name | Description | Link | Reference |
+| ------------ | ----------- | ---- | --------- |
+| eSRRF - Supplementary Data | eSRRF datasets used in the manuscript | [View Dataset on Zenodo](https://zenodo.org/records/8325164) | [Laine et al., 2023](https://www.nature.com/articles/s41592-023-02057-w) |
+
 ### [Fast4DReg](https://github.com/CellMigrationLab/Fast4DReg): Fast registration of 4D microscopy datasets
 | Dataset Name | Description | Link | Reference |
 | ------------ | ----------- | ---- | --------- |
@@ -95,21 +101,17 @@ This section overviews our publicly available image datasets, encompassing vario
 | ZeroCostDL4Mic - CARE (2D) example training and test dataset | Paired microscopy images (fluorescence) of low and high signal-to-noise ratio | [View Dataset on Zenodo](https://zenodo.org/records/3713330) | [von Chamier et al., 2021](https://www.nature.com/articles/s41467-021-22518-0) |
 | ZeroCostDL4Mic - pix2pix example training and test dataset | Paired microscopy images (fluorescence) of lifeact-RFP and sir-DNA | [View Dataset on Zenodo](https://zenodo.org/records/3941889) | [von Chamier et al., 2021](https://www.nature.com/articles/s41467-021-22518-0) |
 
-
 ### Mapping the Localization of Proteins Within Filopodia Using [FiloMap](https://github.com/guijacquemet/FiloMAP)
 | Dataset Name | Description | Link | Reference | 
 | ------------ | ----------- | ---- | --------- | 
 | FiloMap Test Dataset | Dataset for testing and validation in FiloMap, a tool that can be used to map the localization of proteins within filopodia from microscopy images. | [View Dataset on Zenodo](https://doi.org/10.5281/zenodo.5912949) | [Jacquemet et al., 2019](https://www.cell.com/current-biology/fulltext/S0960-9822(18)31552-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982218315525%3Fshowall%3Dtrue) and [Jacquemet et al., 2023](https://link.springer.com/protocol/10.1007/978-1-0716-2887-4_4) |
 
-### Combining StarDist and TrackMate
+### Automated cell tracking using StarDist and TrackMate
 | Dataset Name | Description | Link | Reference | 
 | ------------ | ----------- | ---- | --------- |
-
-### High-fidelity 3D live-cell nanoscopy through data-driven enhanced super-resolution radial fluctuation
-
-| Dataset Name | Description | Link | Reference |
-| ------------ | ----------- | ---- | --------- |
-| eSRRF - Supplementary Data | eSRRF datasets used in the manuscript | [View Dataset on Zenodo](https://zenodo.org/records/8325164) | [Laine et al., 2023](https://www.nature.com/articles/s41592-023-02057-w) |
+Combining StarDist and TrackMate example 1 - Breast cancer cell dataset | Contains a StarDist example training dataset, a test dataset, and the StarDist model generated using ZeroCostDL4Mic | https://doi.org/10.5281/zenodo.4034976| [Fazeli et al., 2020](https://f1000research.com/articles/9-1279/v1)|
+Combining StarDist and TrackMate example 2 - T cell dataset | Contains a StarDist example training dataset, a test dataset, and the StarDist model generated using ZeroCostDL4Mic | https://doi.org/10.5281/zenodo.4034929 | [Fazeli et al., 2020](https://f1000research.com/articles/9-1279/v1)|
+Combining StarDist and TrackMate example 3 - Flow chamber dataset | Contains a StarDist example training dataset, a test dataset, and the StarDist model generated using ZeroCostDL4Mic | https://doi.org/10.5281/zenodo.4034939 | [Fazeli et al., 2020](https://f1000research.com/articles/9-1279/v1)|
 
 
 ### [FiloQuant](https://github.com/CellMigrationLab/FiloQuant) reveals increased filopodia density during breast cancer progression
