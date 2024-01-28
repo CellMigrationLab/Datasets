@@ -62,6 +62,17 @@ This section overviews our publicly available image datasets, encompassing vario
 | CellTracksColab - Filopodia dataset | Dataset used in the manuscript "CellTracksColab—A platform for compiling, analyzing, and exploring tracking data" | [View Dataset on Zenodo](https://zenodo.org/record/10539196) | [Jacquemet et al., 2024](https://www.biorxiv.org/content/10.1101/2023.10.20.563252v3) | 
 | CellTracksColab - T cell dataset (full) | Dataset used in the manuscript "CellTracksColab—A platform for compiling, analyzing, and exploring tracking data" | [View Dataset on Zenodo](https://zenodo.org/record/10539720) | [Jacquemet et al., 2024](https://www.biorxiv.org/content/10.1101/2023.10.20.563252v3) | 
 
+### TLNRD1 is a CCM complex component and regulates endothelial barrier integrity
+| Dataset Name | Description | Link | Reference | 
+| ------------ | ----------- | ---- | --------- | 
+| TLNRD1 figures | Raw microscopy images used to make the figures displayed in the article "TLNRD1 is a CCM complex component and regulates endothelial barrier integrity." | [View Dataset on Zenodo](https://zenodo.org/records/8377287) | [Ball et al., 2023](https://www.biorxiv.org/content/10.1101/2023.09.29.559344v1)  |
+
+### [Fast4DReg](https://github.com/CellMigrationLab/Fast4DReg): Fast registration of 4D microscopy datasets
+| Dataset Name | Description | Link | Reference |
+| ------------ | ----------- | ---- | --------- |
+| Fast4DRegistration | Data used in the manuscript | [View Dataset on Zenodo](https://zenodo.org/records/6534570) | [Pylvänäinen et al., 2023](https://journals.biologists.com/jcs/article/136/4/jcs260728/287682/Fast4DReg-fast-registration-of-4D-microscopy)|
+| Training dataset for Fast4DReg workshop | Fast4DReg workshop data | [View Dataset on Zenodo](https://zenodo.org/records/8347798) | [Pylvänäinen et al., 2023](https://journals.biologists.com/jcs/article/136/4/jcs260728/287682/Fast4DReg-fast-registration-of-4D-microscopy)|
+
 
 ### Democratising deep learning for microscopy with [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic)
 | Dataset Name | Description | Link |
@@ -78,16 +89,10 @@ This section overviews our publicly available image datasets, encompassing vario
 | ZeroCostDL4Mic - pix2pix example training and test dataset | Paired microscopy images (fluorescence) of lifeact-RFP and sir-DNA | [View Dataset on Zenodo](https://zenodo.org/records/3941889) |
 
 
-
 ### Mapping the Localization of Proteins Within Filopodia Using [FiloMap](https://github.com/guijacquemet/FiloMAP)
 | Dataset Name | Description | Link | Reference | 
 | ------------ | ----------- | ---- | --------- | 
 | FiloMap Test Dataset | Dataset for testing and validation in FiloMap, a tool that can be used to map the localization of proteins within filopodia from microscopy images. | [View Dataset on Zenodo](https://doi.org/10.5281/zenodo.5912949) | [Jacquemet et al., 2019](https://www.cell.com/current-biology/fulltext/S0960-9822(18)31552-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982218315525%3Fshowall%3Dtrue) and [Jacquemet et al., 2023](https://link.springer.com/protocol/10.1007/978-1-0716-2887-4_4) |
-
-### TLNRD1 is a CCM complex component and regulates endothelial barrier integrity
-| Dataset Name | Description | Link | Reference | 
-| ------------ | ----------- | ---- | --------- | 
-| TLNRD1 figures | Raw microscopy images used to make the figures displayed in the article "TLNRD1 is a CCM complex component and regulates endothelial barrier integrity." | [View Dataset on Zenodo](https://zenodo.org/records/8377287) | [Ball et al., 2023](https://www.biorxiv.org/content/10.1101/2023.09.29.559344v1)  |
 
 ### TrackMate v7
 | Dataset Name | Description | Link | Reference | 
