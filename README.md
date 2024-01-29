@@ -40,8 +40,6 @@ Our lab has been actively generating and publishing sequencing datasets.
 
 ## Image Data
 
-(🚧 Work in Progress 🚧)
-
 This section overviews our publicly available image datasets, encompassing various studies. 
 
 
@@ -76,9 +74,22 @@ This section overviews our publicly available image datasets, encompassing vario
 | Fast4DRegistration | Data used in the manuscript | [View Dataset on Zenodo](https://zenodo.org/records/6534570) | [Pylvänäinen et al., 2023](https://journals.biologists.com/jcs/article/136/4/jcs260728/287682/Fast4DReg-fast-registration-of-4D-microscopy)|
 | Training dataset for Fast4DReg workshop | Fast4DReg workshop data | [View Dataset on Zenodo](https://zenodo.org/records/8347798) | [Pylvänäinen et al., 2023](https://journals.biologists.com/jcs/article/136/4/jcs260728/287682/Fast4DReg-fast-registration-of-4D-microscopy)|
 
-### TrackMate v7
+### [TrackMate 7](https://imagej.net/plugins/trackmate/): integrating state-of-the-art segmentation algorithms into tracking pipelines
+
 | Dataset Name | Description | Link | Reference | 
 | ------------ | ----------- | ---- | --------- |
+|Tracking label images with TrackMate| Dataset used in a [tutorial](https://imagej.net/plugins/trackmate/trackmate-label-image-detector) that shows how to use TrackMate to track label images. |  https://doi.org/10.5281/zenodo.5221424| [Ershov et al., 2022](https://www.nature.com/articles/s41592-022-01507-1) |
+|Tracking with TrackMate using mask images of cell migration| Dataset used in a [tutorial](https://imagej.net/plugins/trackmate/trackmate-mask-detector) that shows how to use TrackMate to track mask images. |  https://doi.org/10.5281/zenodo.5243127 | [Ershov et al., 2022](https://www.nature.com/articles/s41592-022-01507-1) |
+|Tracking cell migration with the TrackMate threshold detector| Dataset used in a [tutorial](https://imagej.net/plugins/trackmate/trackmate-thresholding-detector) that shows how to use the TrackMate threshold detector. | https://doi.org/10.5281/zenodo.5220796 | [Ershov et al., 2022](https://www.nature.com/articles/s41592-022-01507-1) |
+| T cells migration followed with TrackMate | T cells migrating on ICAM-1 were automatically tracked using StarDist directly implemented within TrackMate. | https://doi.org/10.5281/zenodo.5206119 | [Ershov et al., 2022](https://www.nature.com/articles/s41592-022-01507-1) |
+| Segmenting cells in a spheroid in 3D using 2D StarDist within TrackMate | 3D image of cells in a spheroid, imaged on a confocal microscope, used in a tutorial to demonstrate how to hack TrackMate to segment cells in 3D using the 2D segmentation algorithms it ships. | https://doi.org/10.5281/zenodo.5220610
+ | [Ershov et al., 2022](https://www.nature.com/articles/s41592-022-01507-1) |
+ | Tracking focal adhesions with TrackMate and Weka - tutorial dataset 1 | MDA-mb-231 breast cancer cell expressing GFP-paxillin. See [tutorial](https://imagej.net/plugins/trackmate/trackmate-weka). | https://doi.org/10.5281/zenodo.5226842 | [Ershov et al., 2022](https://www.nature.com/articles/s41592-022-01507-1) |
+ | Tracking focal adhesions with TrackMate and Weka - tutorial dataset 2 | human dermal microvascular blood endothelial cells expressing GFP-paxillin. See [tutorial](https://imagej.net/plugins/trackmate/trackmate-weka). | https://doi.org/10.5281/zenodo.5978940 | [Ershov et al., 2022](https://www.nature.com/articles/s41592-022-01507-1) |
+ | Tracking breast cancer cells migrating collectively and imaged in fluorescence with TrackMate-Cellpose | Breast cancer cells migrating collectively. This dataset is used in a tutorial on using TrackMate and its cellpose integration to track such cells. See [tutorial]( https://imagej.net/plugins/trackmate/trackmate-cellpose). | https://doi.org/10.5281/zenodo.5864646 | [Ershov et al., 2022](https://www.nature.com/articles/s41592-022-01507-1) |
+  | Cancer cell migration followed with TrackMate | Breast cancer cells migrating collectively. See [tutorial](https://imagej.net/plugins/trackmate/trackmate-stardist). | https://doi.org/10.5281/zenodo.5206107 | [Ershov et al., 2022](https://www.nature.com/articles/s41592-022-01507-1) |
+  | Tracking Glioblastoma-astrocytoma cells imaged in brightfield with TrackMate-Cellpose| Glioblastoma-astrocytoma U373 cells migrating on a polyacrylamide gel. | https://doi.org/10.5281/zenodo.5863317 | [Ershov et al., 2022](https://www.nature.com/articles/s41592-022-01507-1) |
+
 
 ### Democratising deep learning for microscopy with [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic)
 | Dataset Name | Description | Link | Reference | 
