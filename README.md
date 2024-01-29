@@ -53,6 +53,12 @@ This section overviews our publicly available image datasets, encompassing vario
 | CellTracksColab - Filopodia dataset | Dataset used in the manuscript "CellTracksColab—A platform for compiling, analyzing, and exploring tracking data" | [View Dataset on Zenodo](https://zenodo.org/record/10539196) | [Jacquemet et al., 2024](https://www.biorxiv.org/content/10.1101/2023.10.20.563252v3) | 
 | CellTracksColab - T cell dataset (full) | Dataset used in the manuscript "CellTracksColab—A platform for compiling, analyzing, and exploring tracking data" | [View Dataset on Zenodo](https://zenodo.org/record/10539720) | [Jacquemet et al., 2024](https://www.biorxiv.org/content/10.1101/2023.10.20.563252v3) | 
 
+### [NanoPyx](https://github.com/HenriquesLab/NanoPyx): super-fast bioimage analysis powered by adaptive machine learning
+
+| Dataset Name | Description | Link | Reference | 
+| ------------ | ----------- | ---- | --------- |
+| NanoPyx - Figures' Data | NanoPyx - Figures' Data | [View Dataset on Zenodo](https://doi.org/10.5281/zenodo.8318395) | [Saraiva et al., 2023](https://www.biorxiv.org/content/10.1101/2023.08.13.553080v2)  |
+
 ### TLNRD1 is a CCM complex component and regulates endothelial barrier integrity
 | Dataset Name | Description | Link | Reference | 
 | ------------ | ----------- | ---- | --------- | 
@@ -69,10 +75,6 @@ This section overviews our publicly available image datasets, encompassing vario
 | ------------ | ----------- | ---- | --------- |
 | Fast4DRegistration | Data used in the manuscript | [View Dataset on Zenodo](https://zenodo.org/records/6534570) | [Pylvänäinen et al., 2023](https://journals.biologists.com/jcs/article/136/4/jcs260728/287682/Fast4DReg-fast-registration-of-4D-microscopy)|
 | Training dataset for Fast4DReg workshop | Fast4DReg workshop data | [View Dataset on Zenodo](https://zenodo.org/records/8347798) | [Pylvänäinen et al., 2023](https://journals.biologists.com/jcs/article/136/4/jcs260728/287682/Fast4DReg-fast-registration-of-4D-microscopy)|
-
-### NaNoPyx
-| Dataset Name | Description | Link | Reference | 
-| ------------ | ----------- | ---- | --------- |
 
 ### TrackMate v7
 | Dataset Name | Description | Link | Reference | 
