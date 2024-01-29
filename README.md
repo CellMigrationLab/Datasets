@@ -38,7 +38,9 @@ Our lab has been actively generating and publishing sequencing datasets.
 <!-- Add more rows as needed -->
 
 
-## Image Data (🚧 Work in Progress 🚧)
+## Image Data
+
+(🚧 Work in Progress 🚧)
 
 This section overviews our publicly available image datasets, encompassing various studies. 
 
