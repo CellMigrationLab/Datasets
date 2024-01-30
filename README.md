@@ -88,7 +88,8 @@ This section overviews our publicly available image datasets, encompassing vario
 | Tracking breast cancer cells migrating collectively with TrackMate-Cellpose | Dataset for tracking collective migration of breast cancer cells with TrackMate-Cellpose. | [View Dataset on Zenodo](https://doi.org/10.5281/zenodo.5864646) | [Ershov et al., 2022](https://www.nature.com/articles/s41592-022-01507-1) |
 | Cancer cell migration followed with TrackMate | Dataset of migrating breast cancer cells for analysis with TrackMate. [tutorial](https://imagej.net/plugins/trackmate/trackmate-stardist). | [View Dataset on Zenodo](https://doi.org/10.5281/zenodo.5206107) | [Ershov et al., 2022](https://www.nature.com/articles/s41592-022-01507-1) |
 | Tracking Glioblastoma-astrocytoma cells with TrackMate-Cellpose | Dataset of Glioblastoma-astrocytoma U373 cells migrating on a polyacrylamide gel. | [View Dataset on Zenodo](https://doi.org/10.5281/zenodo.5863317) | [Ershov et al., 2022](https://www.nature.com/articles/s41592-022-01507-1) |
-
+| Cell migration with ERK signalling | Movie following cells expressing ERK and a nuclei staining, tracked with TrackMate and later analyzed with MATLAB. | [View Dataset on Zenodo](https://doi.org/10.5281/zenodo.5205935) | [Ershov et al., 2022](https://www.nature.com/articles/s41592-022-01507-1) |
+| Quantitative comparison of tracking performance using TrackMate-Helper. | we used TrackMate-Helper to assess the performance of TrackMate on four datasets that cover a wide range of biological and imaging situations | [View Dataset on Zenodo](https://doi.org/10.5281/zenodo.6087729) | [Ershov et al., 2022](https://www.nature.com/articles/s41592-022-01507-1) |
 
 
 ### Democratising deep learning for microscopy with [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic)
