@@ -6,9 +6,14 @@ For any inquiries or further information about these datasets, please get in tou
 
 ## Table of Contents
 - [Deep Learning training datasets and models](https://github.com/CellMigrationLab/ModelZoo)
+- [Materials at Addgene](#Materials-at-Addgene)
 - [Proteomic Data](#Proteomic-Data)
 - [Sequencing Data](#Sequencing-Data)
 - [Image Data](#Image-Data)
+
+## Materials at Addgene
+
+<div style="width: 280px; border: thin solid #888; padding: 10px; text-align: center;"><a href="https://www.addgene.org/Guillaume_Jacquemet/" style="text-decoration: none; color: #585858; font-size: 16px; font-family: Arial,Helvetica,sans-serif;" target="_blank" rel="noopener noreferrer"><b>Guillaume Jacquemet Lab</b><br>Find and request materials through<br><img style="margin-top: 16px;" width="250" height="48" alt="Addgene" src="https://media.addgene.org/cms/filer_public/ea/82/ea826144-fce2-4c13-99e9-940af7e2853b/logo-addgene.png"></a></div>
 
 ## Proteomic Data
 
