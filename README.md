@@ -43,14 +43,20 @@ Our lab has been actively generating and publishing sequencing datasets.
 
 This section overviews our publicly available image datasets, encompassing various studies. 
 
+### [PhotoFiTT](https://github.com/HenriquesLab/PhotoFiTT?tab=readme-ov-file): A Quantitative Framework for Assessing Phototoxicity in Live-Cell Microscopy Experiments
+
+| Dataset Name | Description | Link | Reference | 
+| ------------ | ----------- | ---- | --------- | 
+| PhotoFiTT: A Quantitative Framework for Assessing Phototoxicity in Live-Cell Microscopy Experiments | [View Dataset on the BioImage Archive](https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD1269) | [Del Rosario et al., 2024](https://www.biorxiv.org/content/10.1101/2024.07.16.603046v2) | 
+
 
 ### [CellTracksColab](https://github.com/guijacquemet/CellTracksColab/tree/main) —A platform for compiling, analyzing, and exploring tracking data
 
 | Dataset Name | Description | Link | Reference | 
 | ------------ | ----------- | ---- | --------- | 
-| CellTracksColab - breast cancer cell dataset | Dataset used in the manuscript "CellTracksColab—A platform for compiling, analyzing, and exploring tracking data" | [View Dataset on Zenodo](https://zenodo.org/record/10539020) | [Jacquemet et al., 2024](https://www.biorxiv.org/content/10.1101/2023.10.20.563252v3) | 
-| CellTracksColab - Filopodia dataset | Dataset used in the manuscript "CellTracksColab—A platform for compiling, analyzing, and exploring tracking data" | [View Dataset on Zenodo](https://zenodo.org/record/10539196) | [Jacquemet et al., 2024](https://www.biorxiv.org/content/10.1101/2023.10.20.563252v3) | 
-| CellTracksColab - T cell dataset (full) | Dataset used in the manuscript "CellTracksColab—A platform for compiling, analyzing, and exploring tracking data" | [View Dataset on Zenodo](https://zenodo.org/record/10539720) | [Jacquemet et al., 2024](https://www.biorxiv.org/content/10.1101/2023.10.20.563252v3) | 
+| CellTracksColab - breast cancer cell dataset | Dataset used in the manuscript "CellTracksColab—A platform for compiling, analyzing, and exploring tracking data" | [View Dataset on Zenodo](https://zenodo.org/record/10539020) | [Gómez-de-Mariscal et al., 2024](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002740) | 
+| CellTracksColab - Filopodia dataset | Dataset used in the manuscript "CellTracksColab—A platform for compiling, analyzing, and exploring tracking data" | [View Dataset on Zenodo](https://zenodo.org/record/10539196) | [Gómez-de-Mariscal et al., 2024](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002740) | 
+| CellTracksColab - T cell dataset (full) | Dataset used in the manuscript "CellTracksColab—A platform for compiling, analyzing, and exploring tracking data" | [View Dataset on Zenodo](https://zenodo.org/record/10539720) | [Gómez-de-Mariscal et al., 2024](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002740) | 
 
 ### [NanoPyx](https://github.com/HenriquesLab/NanoPyx): super-fast bioimage analysis powered by adaptive machine learning
 
