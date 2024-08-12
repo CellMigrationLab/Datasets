@@ -47,7 +47,7 @@ This section overviews our publicly available image datasets, encompassing vario
 
 | Dataset Name | Description | Link | Reference | 
 | ------------ | ----------- | ---- | --------- | 
-| PhotoFiTT: A Quantitative Framework for Assessing Phototoxicity in Live-Cell Microscopy Experiments | [View Dataset on the BioImage Archive](https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD1269) | [Del Rosario et al., 2024](https://www.biorxiv.org/content/10.1101/2024.07.16.603046v2) | 
+| PhotoFiTT: A Quantitative Framework for Assessing Phototoxicity in Live-Cell Microscopy Experiments | This repository contains all the data related to the study PhotoFiTT (Phototoxicity Fitness Time Trial) as well as example data for PhotoFiTT computational framework | [View Dataset on the BioImage Archive](https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD1269) | [Del Rosario et al., 2024](https://www.biorxiv.org/content/10.1101/2024.07.16.603046v2) | 
 
 
 ### [CellTracksColab](https://github.com/guijacquemet/CellTracksColab/tree/main) —A platform for compiling, analyzing, and exploring tracking data
