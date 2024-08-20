@@ -98,6 +98,12 @@ This section overviews our publicly available image datasets, encompassing vario
 | Cell migration with ERK signalling | Movie following cells expressing ERK and a nuclei staining, tracked with TrackMate and later analyzed with MATLAB. | [View Dataset on Zenodo](https://doi.org/10.5281/zenodo.5205935) | [Ershov et al., 2022](https://www.nature.com/articles/s41592-022-01507-1) |
 | Quantitative comparison of tracking performance using TrackMate-Helper. | we used TrackMate-Helper to assess the performance of TrackMate on four datasets that cover a wide range of biological and imaging situations | [View Dataset on Zenodo](https://doi.org/10.5281/zenodo.6087729) | [Ershov et al., 2022](https://www.nature.com/articles/s41592-022-01507-1) |
 
+### Cargo-specific recruitment in clathrin- and dynamin-independent endocytosis
+
+| Dataset Name | Description | Link | Reference |
+| ----------- | ---------- | ------- | --------- |
+| Cancer cell migration followed with TrackMate | Stardist model and training dataset for automated tracking of MDA-MB-231 and BT20 cells | [View Dataset on Zenodo](https://zenodo.org/records/4812018) | [Moreno-Layseca et al., 2022](https://www.nature.com/articles/s41556-021-00767-x#Sec13) |
+
 
 ### Democratising deep learning for microscopy with [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic)
 | Dataset Name | Description | Link | Reference | 
