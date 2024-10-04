@@ -42,7 +42,7 @@ Our lab has been actively generating and publishing sequencing datasets.
 
 This section overviews our publicly available image datasets, encompassing various studies. 
 
-## Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers
+## [Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers](https://github.com/CellMigrationLab/PDAC_DL/tree/main)
 
 All data and code associated with the manuscript [Follain et al., 2024](https://www.biorxiv.org/content/10.1101/2024.09.30.615654v1) are available in a dedicated [Zenodo community](https://zenodo.org/communities/pdac_dl) 
 
@@ -80,6 +80,13 @@ All data and code associated with the manuscript [Follain et al., 2024](https://
 | HUVEC CD44 siRNA perfusion tracking dataset | This dataset was used to analyze the attachment of PDACs to the endothelium in Fig.7, SFig.7 and SFig8. | [Link to dataset](https://doi.org/10.5281/zenodo.13377961) |
 | CD44 Blocking Antibody perfusion tracking dataset | This dataset was used to analyze the attachment of PDACs to the endothelium in Fig.7, SFig.7 and SFig8. | [Link to dataset](https://doi.org/10.5281/zenodo.13584215) |
 | Hyaluronidase treatment perfusion tracking dataset | This dataset was used to analyze the attachment of PDACs to the endothelium in Fig.8. | [Link to dataset](https://doi.org/10.5281/zenodo.13627037) |
+
+
+## [Structural Repetition Detector](https://github.com/HenriquesLab/SReD): multi-scale quantitative mapping of molecular complexes through microscopy
+
+| Dataset Name | Description | Link | Reference | 
+| ------------ | ----------- | ---- | --------- | 
+| SReD - Figure's data | This repository contains all the data related to the SReD paper | [View Dataset on Zenodo](https://zenodo.org/records/13764726) | [Mendes et al., 2024](https://www.biorxiv.org/content/10.1101/2024.09.16.613204v1.full) | 
 
 
 ## [PhotoFiTT](https://github.com/HenriquesLab/PhotoFiTT?tab=readme-ov-file): A Quantitative Framework for Assessing Phototoxicity in Live-Cell Microscopy Experiments
