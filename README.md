@@ -21,7 +21,8 @@ Our lab has generated and published a series of proteomic datasets focusing on p
 
 | Dataset Name | Description | View Dataset | Reference |
 | ------------ | ----------- | ------------ | --------- |
-| TLNRD1-GFP Pulldown in HEK293T Cells | Pulldown of human TLNRD1-GFP and GFP in HEK cells for mass spectrometry analysis of binding partners. | [View Dataset](https://www.ebi.ac.uk/pride/archive/projects/PXD045258) | [Ball et al., 2023](https://www.biorxiv.org/content/10.1101/2023.09.29.559344v1) |
+| MYO10-TurboID in U2-OS and U-87 MG cells | Identification of Myosin-X (MYO10) proximal proteins using TurboID in U2-OS and U-87 MG cells. | [View Dataset](https://proteomecentral.proteomexchange.org/PXD067430) | [Popović et al., 2025](https://www.biorxiv.org/content/10.64898/2025.12.03.691809v1) |
+| TLNRD1-GFP Pulldown in HEK293T Cells | Pulldown of human TLNRD1-GFP and GFP in HEK cells for mass spectrometry analysis of binding partners. | [View Dataset](https://www.ebi.ac.uk/pride/archive/projects/PXD045258) | [Ball et al., 2023](https://rupress.org/jcb/article/223/9/e202310030/276861/TLNRD1-is-a-CCM-complex-component-and-regulates) |
 | Talin1-GFP Pulldown in U2OS Cells | Study of human Talin1-GFP and GFP pulldown from U2OS cells plated on fibronectin, using mass spectrometry. | [View Dataset](https://www.ebi.ac.uk/pride/archive/projects/PXD024634) | [Gough et al., 2021](https://www.jbc.org/article/S0021-9258(21)00635-9/fulltext) |
 | Sharpin-GFP Pulldown in HEK293T Cells | Analysis of human Sharpin-GFP and GFP pulldown from HEK293T cells, identifying binding partners through mass spectrometry. | [View Dataset](https://www.ebi.ac.uk/pride/archive/projects/PXD004734) | [Khan et al., 2017](https://journals.biologists.com/jcs/article/130/18/3094/56377/The-Sharpin-interactome-reveals-a-role-for-Sharpin) |
 | Plasma Membrane, Endosomal, and Cytoplasmic Fractions in Mouse Embryonic Fibroblast | Cellular fractionation experiments to identify novel endosomal proteins in mouse embryonic fibroblast. | [View Dataset](https://www.ebi.ac.uk/pride/archive/projects/PXD001870) | [Alanko et al., 2015](https://www.nature.com/articles/ncb3250) |
@@ -42,58 +43,67 @@ Our lab has been actively generating and publishing sequencing datasets.
 
 This section overviews our publicly available image datasets, encompassing various studies. 
 
-## [Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers](https://github.com/CellMigrationLab/PDAC_DL/tree/main)
-
-All data and code associated with the manuscript [Follain et al., 2024](https://www.biorxiv.org/content/10.1101/2024.09.30.615654v1) are available in a dedicated [Zenodo community](https://zenodo.org/communities/pdac_dl) 
+## Filopodome proteomics identifies CCT8 as a MYO10 interactor critical for filopodia functions
 
 | Dataset Name | Description | Link | Reference | 
 | ------------ | ----------- | ---- | --------- | 
-| Fast label-free live imaging reveals regulation of cancer cell endothelium adhesion by flow and CD44-HA interaction | This repository contains all the data used to make the figure shown in the paper | [View Dataset on Zenodo](https://zenodo.org/records/13846276) | [Follain et al., 2024](https://www.biorxiv.org/content/10.1101/2024.09.30.615654v1) | 
+| Filopodome proteomics identifies CCT8 as a MYO10 interactor critical for filopodia functions
+ | This repository contains all the data used to make the figure shown in the paper | [View Dataset on Zenodo](https://zenodo.org/records/17779715) | [Popović et al., 2025](https://www.biorxiv.org/content/10.64898/2025.12.03.691809v1) |
+
+
+## [Fast label-free live imaging with FlowVision reveals key principles of cancer cell arrest on endothelial monolayers](https://github.com/CellMigrationLab/PDAC_DL/tree/main)
+
+All data and code associated with the manuscript [Follain et al., 2026](https://link.springer.com/article/10.1038/s44318-025-00678-9) are available in a dedicated [Zenodo community](https://zenodo.org/communities/pdac_dl) 
+
+| Dataset Name | Description | Link | Reference | 
+| ------------ | ----------- | ---- | --------- | 
+| Fast label-free live imaging with FlowVision reveals key principles of cancer cell arrest on endothelial monolayers | This repository contains all the data used to make the figure shown in the paper | [View Dataset on Zenodo](https://zenodo.org/records/13846276) | [Follain et al., 2026](https://link.springer.com/article/10.1038/s44318-025-00678-9) | 
 
 #### Segmentation models
 | Model Name | Imaging Modality | Performance | Purpose and Associated Figure | Training Dataset Link |
 |------------|------------------|-------------|-------------------------------|-----------------------|
-| Flow chamber dataset | Brightfield      | IoU = 0.813 <br> f1 = 0.933 | StarDist model to detect cancer cells in BSA-coated channels. Used to measure perfusion speed inside the channels (Fig S1). | [Link](https://zenodo.org/records/4034939) |
-| StarDist_Fluorescent_cells | Fluorescence     | IoU = 0.646 <br> f1 = 0.877 | StarDist model to detect cancer cells from fixed samples. Used in Fig. 1 to count the number of attached cells | [Link](https://doi.org/10.5281/zenodo.10572310) |
-| StarDist_BF_cancer_cell_dataset_20x | Brightfield | IoU = 0.793 <br> f1 = 0.921 | StarDist model capable of segmenting cancer cells on endothelial cells (20x magnification). This model was used to segment cancer cells prior to tracking in Fig 1.  | [Link](https://doi.org/10.5281/zenodo.10572122) |
-| StarDist_BF_Neutrophil_dataset | Brightfield | IoU = 0.914 <br> f1 = 0.969 | StarDist model capable of segmenting neutrophils on endothelial cells. This model was used to segment neutrophils prior to tracking in Fig 2. | [Link](https://doi.org/10.5281/zenodo.10572231) |
-| StarDist_BF_Monocytes_dataset | Brightfield | IoU = 0.831 <br> f1 = 0.941 | StarDist model capable of segmenting mononucleated cells on endothelial cells. This model was used to segment mononucleated cells prior to tracking in Fig 2. | [Link](https://doi.org/10.5281/zenodo.10572200) |
-| StarDist_HUVEC_nuclei_dataset | Fluorescence     | IoU = 0.927 <br> f1 = 0.976 | StarDist model capable of segmenting endothelial nuclei while ignoring cancer cells. Used to segment endothelial nuclei in Fig 4. | [Link](https://doi.org/10.5281/zenodo.10617532) |
-| StarDist_BF_cancer_cell_dataset_10x | Brightfield     | IoU = 0.882 <br> f1 = 0.968 | StarDist model capable of segmenting cancer cells on endothelial cells (10x magnification). This model used in figure 7, 8 + associated supplementary figures. | [Link](https://zenodo.org/uploads/13304399) |
-| StarDist_AsPC1_Lifeact | Fluorescence     | IoU = 0.884 <br> f1 = 0.967 | StarDist model capable of segmenting AsPC1 cells from AsPC1 channel, in addition to segmenting from background, model also segments individual cells from clusters. Used in figure 6.| [Link](https://zenodo.org/records/13442128) |
-| Stardist_MiaPaCa2_from_CD44 | Fluorescence     | IoU = 0.884 <br> f1 = 0.950 | StarDist model capable of segmenting MiaPaCa2 cells from CD44 channel while ignoring endothelial cells. Used in figure 6. | [Link](https://doi.org/10.5281/zenodo.13442877) |
+| Flow chamber dataset | Brightfield      | IoU = 0.813 <br> f1 = 0.933 | StarDist model to detect cancer cells in BSA-coated channels. Used to measure perfusion speed inside the channels. | [Link](https://zenodo.org/records/4034939) |
+| StarDist_Fluorescent_cells | Fluorescence     | IoU = 0.646 <br> f1 = 0.877 | StarDist model to detect cancer cells from fixed samples. Used to count the number of attached cells | [Link](https://doi.org/10.5281/zenodo.10572310) |
+| StarDist_BF_cancer_cell_dataset_20x | Brightfield | IoU = 0.793 <br> f1 = 0.921 | StarDist model capable of segmenting cancer cells on endothelial cells (20x magnification). This model was used to segment cancer cells prior to tracking.  | [Link](https://doi.org/10.5281/zenodo.10572122) |
+| StarDist_BF_Neutrophil_dataset | Brightfield | IoU = 0.914 <br> f1 = 0.969 | StarDist model capable of segmenting neutrophils on endothelial cells. This model was used to segment neutrophils prior to tracking. | [Link](https://doi.org/10.5281/zenodo.10572231) |
+| StarDist_BF_Monocytes_dataset | Brightfield | IoU = 0.831 <br> f1 = 0.941 | StarDist model capable of segmenting mononucleated cells on endothelial cells. This model was used to segment mononucleated cells prior to tracking. | [Link](https://doi.org/10.5281/zenodo.10572200) |
+| StarDist_HUVEC_nuclei_dataset | Fluorescence     | IoU = 0.927 <br> f1 = 0.976 | StarDist model capable of segmenting endothelial nuclei while ignoring cancer cells. Used to segment endothelial nuclei. | [Link](https://doi.org/10.5281/zenodo.10617532) |
+| StarDist_BF_cancer_cell_dataset_10x | Brightfield     | IoU = 0.882 <br> f1 = 0.968 | StarDist model capable of segmenting cancer cells on endothelial cells (10x magnification). | [Link](https://zenodo.org/uploads/13304399) |
+| StarDist_AsPC1_Lifeact | Fluorescence     | IoU = 0.884 <br> f1 = 0.967 | StarDist model capable of segmenting AsPC1 cells from AsPC1 channel, in addition to segmenting from background, model also segments individual cells from clusters. | [Link](https://zenodo.org/records/13442128) |
+| Stardist_MiaPaCa2_from_CD44 | Fluorescence     | IoU = 0.884 <br> f1 = 0.950 | StarDist model capable of segmenting MiaPaCa2 cells from CD44 channel while ignoring endothelial cells. | [Link](https://doi.org/10.5281/zenodo.13442877) |
 | StarDist_TumorCell_nuclei | Fluorescence     | IoU = 0.558 <br> f1 = 0.793 | StarDist model capable of segmenting tumor cell nuclei from the nuclei channel while ignoring endothelial nuclei. | [Link](https://doi.org/10.5281/zenodo.13443221) |
 
 #### Artificial labeling models
 
 | Model Name | Performance | Purpose and Associated Figure | Training Dataset Link |
 |------------|-------------|-------------------------------|-----------------------|
-| pix2pix_HUVEC_nuclei_cancer_cells_dataset | SSIM = 0.755 <br> lpips = 0.120 | This model was used in Fig. 4 to artificially label nulcei from BF images with cancer and endothelial cells. | [Link](https://doi.org/10.5281/zenodo.10621667) |
-| pix2pix_HUVEC_nuclei_immuno_cells_dataset | SSIM = 0.756 <br> lpips = 0.130 | This model was used in Fig. 4 to artificially label nulcei from BF images with immuno and endothelial cells. | [Link](https://doi.org/110.5281/zenodo.10617565) |
-| pix2pix_HUVEC_juctions_dataset | SSIM = 0.270 <br> lpips = 0.360 | This model was used in Fig. 4 to artificially label cell-cell juctions from BF images with immuno or cancer and endothelial cells. | [Link](https://doi.org/10.5281/zenodo.10611092) |
+| pix2pix_HUVEC_nuclei_cancer_cells_dataset | SSIM = 0.755 <br> lpips = 0.120 | This model was used to artificially label nulcei from BF images with cancer and endothelial cells. | [Link](https://doi.org/10.5281/zenodo.10621667) |
+| pix2pix_HUVEC_nuclei_immuno_cells_dataset | SSIM = 0.756 <br> lpips = 0.130 | This model was used to artificially label nulcei from BF images with immuno and endothelial cells. | [Link](https://doi.org/110.5281/zenodo.10617565) |
+| pix2pix_HUVEC_juctions_dataset | SSIM = 0.270 <br> lpips = 0.360 | This model was used in to artificially label cell-cell juctions from BF images with immuno or cancer and endothelial cells. | [Link](https://doi.org/10.5281/zenodo.10611092) |
 
 #### Tracking datasets
 | Dataset name | Purpose and Associated Figure | Link to dataset |
 |------------|-------------|-------------------------------|
-| PDAC cells vs Immune cells perfusion tracking dataset | This dataset was used to analyze the attachment of PDAC and immune cells to the endothelium in Fig.2, Fig.3 Fig.4 and SFig.5. | [Link to dataset](https://doi.org/10.5281/zenodo.13643590) |
-| PDAC cells CD44 siRNA perfusion tracking dataset | This dataset was used to analyze the attachment of PDACs to the endothelium in Fig.7, SFig.7 and SFig8. | [Link to dataset](https://doi.org/10.5281/zenodo.13379627) |
-| HUVEC CD44 siRNA perfusion tracking dataset | This dataset was used to analyze the attachment of PDACs to the endothelium in Fig.7, SFig.7 and SFig8. | [Link to dataset](https://doi.org/10.5281/zenodo.13377961) |
-| CD44 Blocking Antibody perfusion tracking dataset | This dataset was used to analyze the attachment of PDACs to the endothelium in Fig.7, SFig.7 and SFig8. | [Link to dataset](https://doi.org/10.5281/zenodo.13584215) |
-| Hyaluronidase treatment perfusion tracking dataset | This dataset was used to analyze the attachment of PDACs to the endothelium in Fig.8. | [Link to dataset](https://doi.org/10.5281/zenodo.13627037) |
+| PDAC cells vs Immune cells perfusion tracking dataset | This dataset was used to analyze the attachment of PDAC and immune cells to the endothelium | [Link to dataset](https://doi.org/10.5281/zenodo.13643590) |
+| PDAC cells CD44 siRNA perfusion tracking dataset | This dataset was used to analyze the attachment of PDACs to the endothelium | [Link to dataset](https://doi.org/10.5281/zenodo.13379627) |
+| HUVEC CD44 siRNA perfusion tracking dataset | This dataset was used to analyze the attachment of PDACs to the endothelium | [Link to dataset](https://doi.org/10.5281/zenodo.13377961) |
+| CD44 Blocking Antibody perfusion tracking dataset | This dataset was used to analyze the attachment of PDACs to the endothelium | [Link to dataset](https://doi.org/10.5281/zenodo.13584215) |
+| Hyaluronidase treatment perfusion tracking dataset | This dataset was used to analyze the attachment of PDACs to the endothelium  | [Link to dataset](https://doi.org/10.5281/zenodo.13627037) |
+| Immune cells perfusion CD44 Blocking Antibody and Il1b 2h and 16h tracking dataset | This dataset contains tracking results of and immune cells (Mononucleated cells and neutrophils) perfused on endothelial monolayer under physiological flow speeds and with or without IL-1β treatment. | [Link to dataset](https://zenodo.org/records/17159634) |
 
 
 ## [Structural Repetition Detector](https://github.com/HenriquesLab/SReD): multi-scale quantitative mapping of molecular complexes through microscopy
 
 | Dataset Name | Description | Link | Reference | 
 | ------------ | ----------- | ---- | --------- | 
-| SReD - Figure's data | This repository contains all the data related to the SReD paper | [View Dataset on Zenodo](https://zenodo.org/records/13764726) | [Mendes et al., 2024](https://www.biorxiv.org/content/10.1101/2024.09.16.613204v1.full) | 
+| SReD - Figure's data | This repository contains all the data related to the SReD paper | [View Dataset on Zenodo](https://zenodo.org/records/13764726) | [Mendes et al., 2025](https://www.nature.com/articles/s41467-025-60709-1) | 
 
 
 ## [PhotoFiTT](https://github.com/HenriquesLab/PhotoFiTT?tab=readme-ov-file): A Quantitative Framework for Assessing Phototoxicity in Live-Cell Microscopy Experiments
 
 | Dataset Name | Description | Link | Reference | 
 | ------------ | ----------- | ---- | --------- | 
-| PhotoFiTT: A Quantitative Framework for Assessing Phototoxicity in Live-Cell Microscopy Experiments | This repository contains all the data related to the study PhotoFiTT (Phototoxicity Fitness Time Trial) as well as example data for PhotoFiTT computational framework | [View Dataset on the BioImage Archive](https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD1269) | [Del Rosario et al., 2024](https://www.biorxiv.org/content/10.1101/2024.07.16.603046v2) | 
+| PhotoFiTT: A Quantitative Framework for Assessing Phototoxicity in Live-Cell Microscopy Experiments | This repository contains all the data related to the study PhotoFiTT (Phototoxicity Fitness Time Trial) as well as example data for PhotoFiTT computational framework | [View Dataset on the BioImage Archive](https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD1269) | [Del Rosario et al., 2025](https://www.nature.com/articles/s41467-025-66209-6) | 
 
 
 ## [CellTracksColab](https://github.com/guijacquemet/CellTracksColab/tree/main) —A platform for compiling, analyzing, and exploring tracking data
@@ -108,12 +118,12 @@ All data and code associated with the manuscript [Follain et al., 2024](https://
 
 | Dataset Name | Description | Link | Reference | 
 | ------------ | ----------- | ---- | --------- |
-| NanoPyx - Figures' Data | NanoPyx - Figures' Data | [View Dataset on Zenodo](https://doi.org/10.5281/zenodo.8318395) | [Saraiva et al., 2023](https://www.biorxiv.org/content/10.1101/2023.08.13.553080v2)  |
+| NanoPyx - Figures' Data | NanoPyx - Figures' Data | [View Dataset on Zenodo](https://doi.org/10.5281/zenodo.8318395) | [Saraiva et al., 2025](https://www.nature.com/articles/s41592-024-02562-6)  |
 
 ## TLNRD1 is a CCM complex component and regulates endothelial barrier integrity
 | Dataset Name | Description | Link | Reference | 
 | ------------ | ----------- | ---- | --------- | 
-| TLNRD1 figures | Raw microscopy images used to make the figures displayed in the article "TLNRD1 is a CCM complex component and regulates endothelial barrier integrity." | [View Dataset on Zenodo](https://zenodo.org/records/8377287) | [Ball et al., 2023](https://www.biorxiv.org/content/10.1101/2023.09.29.559344v1)  |
+| TLNRD1 figures | Raw microscopy images used to make the figures displayed in the article "TLNRD1 is a CCM complex component and regulates endothelial barrier integrity." | [View Dataset on Zenodo](https://zenodo.org/records/8377287) | [Ball et al., 2024](https://rupress.org/jcb/article/223/9/e202310030/276861/TLNRD1-is-a-CCM-complex-component-and-regulates)  |
 
 ## High-fidelity 3D live-cell nanoscopy through data-driven enhanced super-resolution radial fluctuation
 
