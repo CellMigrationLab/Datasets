@@ -45,10 +45,10 @@ This section overviews our publicly available image datasets, encompassing vario
 
 ## Filopodome proteomics identifies CCT8 as a MYO10 interactor critical for filopodia functions
 
-| Dataset Name | Description | Link | Reference | 
-| ------------ | ----------- | ---- | --------- | 
-| Filopodome proteomics identifies CCT8 as a MYO10 interactor critical for filopodia functions
- | This repository contains all the data used to make the figure shown in the paper | [View Dataset on Zenodo](https://zenodo.org/records/17779715) | [Popović et al., 2025](https://www.biorxiv.org/content/10.64898/2025.12.03.691809v1) |
+| Dataset Name | Description | Link | Reference |
+| --- | --- | --- | --- |
+| Filopodome proteomics dataset | This repository contains all the data used to make the figures shown in the paper. | [View Dataset on Zenodo](https://zenodo.org/records/17779715) | [Popović et al., 2025](https://www.biorxiv.org/content/10.64898/2025.12.03.691809v1) |
+
 
 
 ## [Fast label-free live imaging with FlowVision reveals key principles of cancer cell arrest on endothelial monolayers](https://github.com/CellMigrationLab/PDAC_DL/tree/main)
