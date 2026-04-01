@@ -43,6 +43,12 @@ Our lab has been actively generating and publishing sequencing datasets.
 
 This section overviews our publicly available image datasets, encompassing various studies. 
 
+## Filopodia-mediated trans-endocytosis
+
+| Dataset Name | Description | Link | Reference |
+| ------------ | ----------- | ---- | --------- |
+| Filopodia-mediated trans-endocytosis dataset | This repository contains the raw image and numerical data used to make the figures shown in the preprint. | [View Dataset on Zenodo](https://zenodo.org/records/18483147) | [Grobe et al., 2026](https://www.biorxiv.org/content/10.64898/2026.02.09.703982v1) |
+
 ## Filopodome proteomics identifies CCT8 as a MYO10 interactor critical for filopodia functions
 
 | Dataset Name | Description | Link | Reference |
